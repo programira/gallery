@@ -1,5 +1,7 @@
 # MyApp
 
+![alt text](https://i.ibb.co/g7n8dJw/3.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
